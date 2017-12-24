@@ -10,3 +10,5 @@ Creating a new branch is quick and simple.
 >>>>>>> feature1
 
 2017.12.24
+
+i am a good man!
